@@ -1,0 +1,46 @@
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\bin\Debug\wordpad.exe.config
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\bin\Debug\wordpad.exe
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\bin\Debug\wordpad.pdb
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.csproj.GenerateResource.Cache
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.exe
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.pdb
+C:\Users\황도현\documents\visual studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.Form1.resources
+C:\Users\황도현\Documents\Visual Studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.Form2.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\bin\Debug\wordpad.exe.config
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.exe
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.pdb
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\bin\Debug\wordpad.exe
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\bin\Debug\wordpad.pdb
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.Form1.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.Form2.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad\obj\Debug\wordpad.csproj.GenerateResource.Cache
+C:\Users\황도현\Documents\Visual Studio 2015\Projects\LogIn\wordpad\obj\Debug\wordpad.Form3.resources
+C:\Users\hwi\Desktop\wordpad (1)\bin\Debug\wordpad.exe.config
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.exe
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.pdb
+C:\Users\hwi\Desktop\wordpad (1)\bin\Debug\wordpad.exe
+C:\Users\hwi\Desktop\wordpad (1)\bin\Debug\wordpad.pdb
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.Form1.resources
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.Form2.resources
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.Form3.resources
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\hwi\Desktop\wordpad (1)\obj\Debug\wordpad.csproj.GenerateResource.Cache
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\bin\Debug\wordpad.exe.config
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.exe
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.pdb
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\bin\Debug\wordpad.exe
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\bin\Debug\wordpad.pdb
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.Form1.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.Form2.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.Form3.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\hwi\Documents\Visual Studio 2015\Projects\wordpad (1)\obj\Debug\wordpad.csproj.GenerateResource.Cache
+C:\Users\hwi\OneDrive\박\c#\project\wordpad (1)\bin\Debug\wordpad.exe.config
+C:\Users\hwi\OneDrive\박\c#\project\wordpad (1)\obj\Debug\wordpad.exe
+C:\Users\hwi\OneDrive\박\c#\project\wordpad (1)\obj\Debug\wordpad.pdb

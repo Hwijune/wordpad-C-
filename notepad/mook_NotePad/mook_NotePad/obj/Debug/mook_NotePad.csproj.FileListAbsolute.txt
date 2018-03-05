@@ -1,0 +1,27 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Form3.resources
+C:\cs\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe.config
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.exe
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.pdb
+C:\cs\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe
+C:\cs\Chap4\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.pdb
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csprojResolveAssemblyReference.cache
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Form3.resources
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Properties.Resources.resources
+C:\cs\Chap4\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csproj.GenerateResource.Cache
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe.config
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.exe
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.pdb
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.exe
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\bin\Debug\mook_NotePad.pdb
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csprojResolveAssemblyReference.cache
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Form3.resources
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.Properties.Resources.resources
+C:\Users\hwi\OneDrive\박\c#\project\notepad\mook_NotePad\mook_NotePad\obj\Debug\mook_NotePad.csproj.GenerateResource.Cache
